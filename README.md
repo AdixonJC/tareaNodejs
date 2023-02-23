@@ -1,5 +1,12 @@
 
-<h1 color:red>Colocar lo siguiente para hacer el post en POSTMAN!</h1>
+# Colocar lo siguiente para hacer el post en POSTMAN!
+
+<style>
+h1 {
+  color: red;
+}
+</style>
+
 
 {
     "name": "Adixon",
