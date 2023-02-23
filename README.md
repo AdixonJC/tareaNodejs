@@ -1,5 +1,5 @@
 
-# <h1 style="color:red;">Colocar lo siguiente para hacer el post en POSTMAN!</h1>
+# <h1 color="red">Colocar lo siguiente para hacer el post en POSTMAN!</h1>
 
 
 <code>
